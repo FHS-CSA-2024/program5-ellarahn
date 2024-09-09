@@ -1,4 +1,4 @@
-*/
+
 class myClass{
   public static void main(String[]args){
         
@@ -27,3 +27,5 @@ class myClass{
     System.out.format("%.1f", pipeAve);
     System.out.println(" ");
     System.out.format("%.1f", badAve);
+  }
+}
